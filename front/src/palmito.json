@@ -1,0 +1,60 @@
+{
+    "palmitos": [
+        {
+            "id": "01",
+            "name": "Palmito Picado",
+            "brand": "Savana",
+            "price": "18",
+            "image": "http://savanapalmitos.com.br/image/catalog/potes/02.png",
+            "description": "Ideal para tortas e bolos"
+        },
+        {
+            "id": "02",
+            "name": "Palmito Rodela",
+            "brand": "Savana",
+            "price": "20",
+            "image": "http://savanapalmitos.com.br/image/catalog/potes/03.png",
+            "description": "Ideal para saladas e etradas"
+        },
+        {
+            "id": "03",
+            "name": "Palmito Tolete",
+            "brand": "Savana",
+            "price": "22",
+            "image": "http://savanapalmitos.com.br/image/catalog/potes/15.png",
+            "description": "Ideal para apresentações"
+        },
+        {
+            "id": "04",
+            "name": "3 potes de Palmito Picado",
+            "brand": "Savana",
+            "price": "24",
+            "image": "http://savanapalmitos.com.br/image/catalog/potes/15.png",
+            "description": "Ideal para tortas"
+        },
+        {
+            "id": "05",
+            "name": "3 potes de Palmito Rodela",
+            "brand": "Savana",
+            "price": "26",
+            "image": "http://savanapalmitos.com.br/image/catalog/potes/15.png",
+            "description": "Ideal para entradas"
+        },
+        {
+            "id": "06",
+            "name": "3 potes de Palmito Tolete",
+            "brand": "Savana",
+            "price": "28",
+            "image": "http://savanapalmitos.com.br/image/catalog/potes/15.png",
+            "description": "Ideal para apresentações"
+        },
+        {
+            "id": "07",
+            "name": "3 potes de Palmito Sortidos",
+            "brand": "Savana",
+            "price": "27,50",
+            "image": "https://cf.shopee.com.br/file/ef5ed6bc60e6c7b32eb08e37d07bd8d9",
+            "description": "blabla"
+        }
+    ]
+}
