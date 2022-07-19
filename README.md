@@ -1,2 +1,2 @@
-# Palmito-
-página para visualização dos produtos e preços. 
+# Palmito
+Página para visualização dos produtos e preços. 
